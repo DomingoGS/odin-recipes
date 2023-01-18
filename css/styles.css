@@ -1,0 +1,35 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.index-title,
+.recipe-main-title {
+    text-align: center;
+    font-size: 40px;
+}
+
+.index-title {
+    color: red;
+    background-color: black;
+}
+
+.index-list_element {
+    text-align: center;
+    list-style-type: none;
+    font-size: 25px;
+}
+
+.recipe-main-title {
+    color:aquamarine;
+    background-color: darkslategray;
+}
+
+.recipe-img {
+    height: 600px;
+    width: auto;
+}
+
+.recipe-secondary-title {
+    background-color: black;
+    color: white;
+}
